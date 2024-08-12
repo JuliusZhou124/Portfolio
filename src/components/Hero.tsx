@@ -49,7 +49,7 @@ const Hero = () => {
             </div>
 
             <p className='text-center text-xl max-w-[500px] mx-auto text-white/80'>
-                Hi! I do programming sometimes, with an interest in hardware and embedded systems as well as computer vision. In the past I've done a little 
+                Hi! I do programming sometimes, with an interest in hardware and embedded systems as well as computer vision. In the past I&apos;ve done a little 
                 bit of competitive programming and a sizeable amount of devops. Proficient in web-dev/frontend if needed. 
                 Big linux and foss enthusiast, hmu if u wanna chat. Sw member of FRC 649 Robotics. Website is not yet complete, give me some time on that 😅
             </p>
